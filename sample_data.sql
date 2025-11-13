@@ -1,7 +1,7 @@
 
 -- sample_data.sql
 INSERT INTO users VALUES
-(1, 'Savya Gupta', 'savya@example.com');
+(1, 'User1', 'user1@example.com');
 
 INSERT INTO categories VALUES
 (1, 'Food'),
